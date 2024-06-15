@@ -1,16 +1,77 @@
-<h1 align="center">Hi 👋, I'm Camila</h1>
-<h3 align="center">A student in engineering school at ESME Sudria</h3>
+# Hi 👋, I'm Camila
 
-- 🔭 I’m currently working on **NMPCloud**
+## About Me
+I am Camila, a 22-year-old student at ESME Sudria, currently expanding my knowledge and skills in the field of digital transformations. I have a strong interest in cybersecurity, networks, machine learning, and databases. I am currently studying at Seaside at CSUMB for one semester to broaden my academic and practical experiences.
 
-- 🌱 I’m currently learning **courses**
+- 🌟 I’m currently doing my internship at CooperStandard in Vitré, France
+- 📚 I’m currently learning **Cloud, Machine Learning, Cybersecurity, Networks, Databases**
+- 📫 How to reach me: [camila.veille@esme.fr](mailto:camila.veille@esme.fr)
 
-- 📫 How to reach me **camila.veille@esme.fr**
+## Current Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/camilavlmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilavlmd" height="30" width="40" /></a>
-</p>
+### Cooper Standard Internship
+- **Role:** Intern
+- **Technologies:** Palantir Foundry, Google AI Vertex, Power BI
+- **Description:** I am starting my internship at Cooper Standard, where I will be working on projects involving Palantir Foundry, Google AI Vertex, and Power BI to develop and implement advanced data analytics and visualization solutions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Current Projects
+
+### Cooper Standard Internship
+- **Role:** Intern
+- **Technologies:** Palantir Foundry, Google AI Vertex, Power BI
+- **Description:** I am starting my internship at Cooper Standard, where I will be working on projects involving Palantir Foundry, Google AI Vertex, and Power BI to develop and implement advanced data analytics and visualization solutions.
+
+### NMP Musiciens Connectés
+- **Description:** The primary goal of the NMP Musiciens Connectés project is to provide an innovative platform that allows musicians to practice together remotely with minimal latency. This solution aims to overcome the traditional challenges of remote musical collaboration, such as audio latency and synchronization issues, to enable a real-time training experience as smooth as possible.
+- **Technologies:** PyQt5, Microsoft Power BI, Heroku, PhpMyAdmin, Pycharm, Wireshark, Python, Inno Setup, GitHub, Microsoft Word, Web Scraping, MySQL, Microsoft PowerPoint, Microsoft Office, Power BI
+
+### Flag Guesser Application
+- **Description:** 
+  - **Project Initialization:** Created a Java project on the Eclipse IDE with dependency management via Maven/Gradle.
+  - **Development:** Set up classes, game logic, integration of external APIs for flags, and question management.
+  - **Testing:** Wrote unit tests with JUnit to ensure application stability.
+  - **Dependency Management:** Used Maven/Gradle for dependency management.
+  - **Postman Integration Testing:** Checked APIs using Postman to ensure they work properly.
+- **Technologies:** Eclipse IDE, Visual Studio Code, GitHub (for version control), Postman (for integration testing), Pivotal Tracker (for task management), H2 Database (as database), AWS (deployment)
+
+### GradeBook and Registration Application
+- **Description:** Together with my team, we designed and developed the GradeBook app to simplify the management of students and their grades. The application allows administrators to add, edit, and delete students with unique email addresses in the database. Key features include holding student registration, resetting status with explanatory messages, notifying administrators before deleting students enrolled in courses, and providing REST APIs for managing assignments. The project also includes a warning system for teachers when attempting to delete assignments with grades.
+- **Technologies:** PivotalTracker, GitHub, Visual Studio Code, PostMan, AWS, Slack, EclipseIDE, Spring Boot Java
+- **Languages:** HTML5, CSS, JAVA, Python, JavaScript, SQL
+- **Team:** This project was built by Coralie Rouveyrol, Louison Béranger, and Camila Veille as part of our international semester at CSUMB.
+
+## Skills and Technologies
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+### Tools and Frameworks
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud Services
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=%23FF9900)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilavlmd)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cvlmd)
+
+## Get in Touch
+
+- 📧 Email: [camila.veille@esme.fr](mailto:camila.veille@esme.fr)
+- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/camilavlmd)
+- 💻 GitHub: [GitHub Profile](https://github.com/cvlmd)
+
+---
+
+Feel free to explore my repositories and connect with me for any interesting projects or collaborations!
