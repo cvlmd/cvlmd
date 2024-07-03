@@ -7,12 +7,12 @@ I am Camila, a 22-year-old student at ESME Sudria, currently expanding my knowle
 - 📚 I’m currently learning **Cloud, Machine Learning, Cybersecurity, Networks, Databases**
 - 📫 How to reach me: [camila.veille@esme.fr](mailto:camila.veille@esme.fr)
 
-## Current Projects
-
 ### Cooper Standard Internship
 - **Role:** Intern
 - **Technologies:** Palantir Foundry, Google AI Vertex, Power BI
 - **Description:** I am starting my internship at Cooper Standard, where I will be working on projects involving Palantir Foundry, Google AI Vertex, and Power BI to develop and implement advanced data analytics and visualization solutions.
+  
+## Current Projects
 
 ### NMP Musiciens Connectés
 - **Description:** The primary goal of the NMP Musiciens Connectés project is to provide an innovative platform that allows musicians to practice together remotely with minimal latency. This solution aims to overcome the traditional challenges of remote musical collaboration, such as audio latency and synchronization issues, to enable a real-time training experience as smooth as possible. (ERASMUS+)
