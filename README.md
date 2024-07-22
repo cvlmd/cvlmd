@@ -1,16 +1,16 @@
 # Hi 👋, I'm Camila
 
 ## About Me
-I am Camila, a 22-year-old student at ESME Sudria, currently expanding my knowledge and skills in the field of digital transformations. I have a strong interest in cybersecurity, networks, machine learning, and databases. I did one semester abroad at CSUMB to broaden my academic and practical experiences.
+I am Camila, a 22-year-old student at ESME Sudria, currently expanding my knowledge and skills in the field of digital transformations. I have a strong interest in machine learning, and databases. I did one semester abroad at CSUMB to broaden my academic and practical experiences.
 
 - 🌟 I’m currently doing my internship at CooperStandard in Vitré, France
-- 📚 I’m currently learning **Cloud, Machine Learning, Cybersecurity, Networks, Databases**
+- 📚 I’m currently learning **Cloud, Machine Learning, Databases**
 - 📫 How to reach me: [camila.veille@esme.fr](mailto:camila.veille@esme.fr)
 
 ### Cooper Standard Internship
 - **Role:** Intern
-- **Technologies:** Palantir Foundry, Google AI Vertex, Power BI
-- **Description:** I am starting my internship at Cooper Standard, where I will be working on projects involving Palantir Foundry, Google AI Vertex, and Power BI to develop and implement advanced data analytics and visualization solutions.
+- **Technologies:** Palantir Foundry, Power BI
+- **Description:** I am starting my internship at Cooper Standard, where I will be working on projects involving Palantir Foundry and Power BI to develop and implement advanced data analytics and visualization solutions. (Currently learning on Palantir Foundry)
   
 ## Current Projects
 
