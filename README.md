@@ -1,9 +1,9 @@
-# Hi 👋, I'm Camila
+# Hi 👋,
 
 ## About Me
-I am Camila, a 22-year-old student at ESME Sudria, currently expanding my knowledge and skills in the field of digital transformations. I have a strong interest in machine learning, and databases. I did one semester abroad at CSUMB to broaden my academic and practical experiences.
+I am Camila, a student at ESME Sudria, currently expanding my knowledge and skills in the field of digital transformations. I have a strong interest in machine learning, and databases. I did one semester abroad at CSUMB to broaden my academic and practical experiences.
 
-- 🌟 I’m currently doing my internship at CooperStandard in Vitré, France
+- 🌟 I’m currently doing an internship at CooperStandard in Vitré, France
 - 📚 I’m currently learning **Cloud, Machine Learning, Databases**
 - 📫 How to reach me: [camila.veille@esme.fr](mailto:camila.veille@esme.fr)
 
