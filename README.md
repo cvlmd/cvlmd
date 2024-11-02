@@ -55,12 +55,6 @@ I am Camila, a student at ESME Sudria, currently expanding my knowledge and skil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilavlmd)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cvlmd)
 
-## Get in Touch
-
-- 📧 Email: [camila.veille@esme.fr](mailto:camila.veille@esme.fr)
-- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/camilavlmd)
-- 💻 GitHub: [GitHub Profile](https://github.com/cvlmd)
-
 ---
 
 Feel free to explore my repositories and connect with me for any interesting projects or collaborations!
